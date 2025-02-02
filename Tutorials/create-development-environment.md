@@ -2,7 +2,7 @@
 
 ## Development Containers (devcontainers)
 
-Development Containers is a specification that allows repositories to introduce a normalized way of interacting with their repository. When using an IDE like Visual Studio Code you are able to install the devcontainers extension and open the repository in a container. The end result is anyone who interacts with the repository should be able to rely on this container specification to facilitate development with confidence that it will on other machines as long as they have a container technology installed.
+Development Containers is a specification that allows repositories to introduce a normalized way of interacting with their repository. When using an IDE like Visual Studio Code you are able to install the devcontainers extension and open the repository in a container. The end result is anyone who interacts with the repository should be able to rely on this container specification to facilitate development with confidence that it will work on other machines as long as they have a container technology installed.
 
 ## Instructions
 
